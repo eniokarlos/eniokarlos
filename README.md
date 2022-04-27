@@ -2,7 +2,7 @@
 
   - Desde cedo apaixonado por jogos, tecnologia e música.<br> 
   Atualmente cursando Bacharelado em Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE).<br> 
-  Procuro me especializar tanto em Front-End como em Back-End. Para isso busco trabalhar nas mais diversas áreas e ganhar experiência<br>
+  Procuro me especializar tanto em Front-End como em Back-End. Para isso busco, trabalhar nas mais diversas áreas e ganhar experiência<br>
   como profissional da computação<br>
   
 
